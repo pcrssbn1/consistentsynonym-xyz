@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://consistentsynonym.xyz/sitemap.xml
